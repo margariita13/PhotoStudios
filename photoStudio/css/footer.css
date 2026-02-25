@@ -1,0 +1,22 @@
+.footer-container {
+    max-width: 906px;
+    margin: 0 auto;
+}
+
+.footer_btn--wrapper {
+    text-align: center;
+    padding-bottom: 66px;
+}
+
+.footer_btn {
+    width: 165px;
+    height: 60px;
+    font-family: Playfair Display;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    color: var(--darkGray);
+    border: 1px solid var(--darkGray);
+    margin-top: 90px;
+    background-color: transparent;
+}
